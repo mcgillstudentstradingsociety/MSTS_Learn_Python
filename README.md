@@ -8,6 +8,6 @@ and make this an interactive space where students and executive members alike ca
 related to trading. Feel free to make any relevant pull requests which will be reviewed by the MSTS executive team and potentially integrated.
 
 If any questions arise related to the content of the files in this github or more, feel free to contact the MSTS at tradingsociety@ssmu.ca, or you can 
-directly contact our VP head of Trading at stanislas.motte@mail.mcgill.ca
+directly contact our VP Head of Trading at stanislas.motte@mail.mcgill.ca
 
 Happy algorithmic trading!
